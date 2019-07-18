@@ -1,6 +1,6 @@
 {
   "name": "rn-spinner",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Number spinner for react-native",
   "keywords": [
     "react-native",
@@ -10,12 +10,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RNComponents/rn-spinner"
+    "url": "https://github.com/guixue/rn-spinner"
   },
   "author": {
-    "name": "Fantasy Shao",
-    "url": "http://fantasy.codes",
-    "email": "fantasyshao@icloud.com"
+    "name": "Guixue",
+    "url": "http://liuguixue.com",
+    "email": "guixue@outlook.com"
   },
   "license": "MIT"
 }
